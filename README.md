@@ -1,4 +1,4 @@
-# vue
+# home-configurator
 
 ## Project setup
 ```
